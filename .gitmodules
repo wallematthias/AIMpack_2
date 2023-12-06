@@ -1,0 +1,6 @@
+[submodule "src/n88util"]
+	path = src/n88util
+	url = https://github.com/Numerics88/n88util
+[submodule "src/AimIO"]
+	path = src/AimIO
+	url = https://github.com/Numerics88/AimIO/
